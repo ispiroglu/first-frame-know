@@ -1,7 +1,11 @@
 {
   "name": "first-frame-know",
+  "compatibility_date": "2026-01-11",
   "pages_build_config": {
     "build_command": "bun run build",
     "build_caching_enabled": true
+  },
+  "assets": {
+    "directory": "./dist"
   }
 }
