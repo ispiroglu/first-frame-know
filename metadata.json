@@ -1,0 +1,5 @@
+{
+  "name": "First Frame Know",
+  "description": "A moderator-led video quiz dashboard where contestants guess the video based on a single frame before the video plays.",
+  "requestFramePermissions": []
+}
