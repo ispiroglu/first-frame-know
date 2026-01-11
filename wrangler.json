@@ -1,0 +1,11 @@
+{
+  "name": "first-frame-know",
+  "type": "javascript",
+  "main": "dist/index.js",
+  "compatibility_date": "2024-12-16",
+  "env": {
+  },
+  "build": {
+    "command": "bun run build"
+  }
+}
